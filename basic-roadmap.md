@@ -3,7 +3,7 @@ Claro! Aqui está um roadmap básico para aprender Ruby:
 ## Roadmap para Aprender Ruby
 
 ### 1. Fundamentos de Programação
-
+a
 - Entenda os conceitos básicos de programação, como variáveis, tipos de dados, condicionais, loops e funções.
 - Aprenda a resolver problemas simples usando Ruby e pratique a escrita de código.
 
